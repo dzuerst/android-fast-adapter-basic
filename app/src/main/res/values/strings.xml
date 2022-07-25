@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FastAdapterBasic</string>
+
+    <string-array name="data_judul_indo">
+        <item>Hadith Pertama</item>
+        <item>Hadith Kedua</item>
+    </string-array>
+
+    <string-array name="data_judul_arab">
+        <item>Al Haditsul Awwal</item>
+        <item>Al Haditsul isnain</item>
+    </string-array>
+</resources>
